@@ -1,0 +1,4 @@
+/app/claims-service/src/main/java/com/chubb/claims/domain/Claim.java
+/app/claims-service/src/main/java/com/chubb/claims/ClaimsServiceApplication.java
+/app/claims-service/src/main/java/com/chubb/claims/domain/ClaimType.java
+/app/claims-service/src/main/java/com/chubb/claims/domain/ClaimStatus.java

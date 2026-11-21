@@ -1,0 +1,5 @@
+com/chubb/claims/domain/Claim.class
+com/chubb/claims/domain/Claim$ClaimBuilder.class
+com/chubb/claims/domain/ClaimStatus.class
+com/chubb/claims/domain/ClaimType.class
+com/chubb/claims/ClaimsServiceApplication.class
