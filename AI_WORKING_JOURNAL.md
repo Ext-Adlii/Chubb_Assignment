@@ -1,6 +1,6 @@
 # AI Working Journal — Chubb Claims Platform
 
-*Running log of AI interaction: prompts, acceptances, challenges, overrides, and reasoning.*
+*Running log of AI interaction: prompts, acceptances, challenges, overridings, and reasoning.*
 
 ## Entry 1: Initial Scaffolding & Database Migration
 - **Date:** 2026-11-21
